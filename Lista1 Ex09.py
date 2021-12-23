@@ -1,0 +1,5 @@
+print("Calculador de área de quadrados.")
+lado = float(input("Informe o comprimento do lado do quadrado: "))
+media = round(lado**2, 2)
+print("Calculando a área....espere.")
+print(f"A área é {media}")

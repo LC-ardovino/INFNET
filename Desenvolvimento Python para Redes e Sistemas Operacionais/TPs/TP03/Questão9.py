@@ -1,0 +1,1 @@
+#Não consegui fazer essa questão e a 11 por que achei o enunciado confuso, fiquei até estranhado pq o projeto de bloco o código é mais complexo e to conseguindo fazer kkkk, se o senhor puder comentar a resposta ficarei imensamente grato.
